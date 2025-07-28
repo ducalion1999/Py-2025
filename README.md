@@ -1,4 +1,3 @@
-# The analysis 
 # The Analysis
 
 Each Jupyter notebook for this project aimed at investigating specific aspects of the data job market. Here’s how I approached each question:
